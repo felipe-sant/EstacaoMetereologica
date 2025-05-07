@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/felipe-sant/BACK-ColetorDeTempo
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/felipe-sant/FRONT-ColetorDeTempo.git
